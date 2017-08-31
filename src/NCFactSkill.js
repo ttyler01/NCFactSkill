@@ -148,6 +148,8 @@ var data = [
     "North Carolina has an Annual Livermush Festival.  Livermush is traditionally made from pig liver, head parts, cornmeal, pepper, and sage. The mixture is made into a loaf and fried.",
     "The Scuppernong, a large muscadine grape, is the Official Fruit of North Carolina.  The name comes from the Scuppernong River in North Carolina traces traces back to the Algonquian word ascopo meaning sweet bay tree.",
     "According to the North Carolina Department of Commerce, the oldest cultivated grapevine in the country is the Mothervine in Manteo on Roanoke Island, North Carolina, a 400 year old Scuppernong vine.",
+    "Bennett Place, sometimes known as Bennett Farm, in Durham, North Carolina and a North Carolina Historic Site, was the location of the largest surrender of Confederate soldiers ending the American Civil War, on April 26, 1865.",
+    "Alamance Battleground in Burlington North Carolina was the location of an armed rebellion of backcountry farmers called Regulators against royal governor William Tryon's militia.  Although the rebellion was crushed, a few years later their tactics became a model for the colonists fighting the British in the American Revolutionary War.  Alamance Battleground is a North Carolina Historic Site.",
     "North Carolina was the first state to establish a state museum of art and a state symphony."
 ];
 
